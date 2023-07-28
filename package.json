@@ -1,7 +1,7 @@
 {
   "name": "t_aguirre_portfolio",
   "private": true,
-  "homepage": "git@github.com:t-aguirre/t_aguirre_portfolio.git",
+  "homepage": "https://t-aguirre.github.io/t_aguirre_portfolio",
   "version": "0.0.0",
   "scripts": {
     "deploy": "gh-pages -d dist",
