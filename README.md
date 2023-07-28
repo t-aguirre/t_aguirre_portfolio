@@ -1,6 +1,6 @@
 ## Concept
 
-This portfolio has been built with the template of the Wild Code School's teacher Lydie Pluvinage to develop project from scratch.
+This portfolio has been built with the template of the Wild Code School's teacher Lydie Pluvinage to develop projects from scratch.
 
 ## Setup & Use
 
