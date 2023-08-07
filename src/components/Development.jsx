@@ -83,7 +83,7 @@ const Development = () => {
               <div className='md:order-2'>
                 <h2 className="text-3xl font-bold tracking-tight text-sky-900 sm:text-4xl">Convertit</h2>
                 <p className="mt-4 text-gray-500">
-                  Convertit is also a team project for the Wild Code School. It's an image converter with the possibility to store user's pictures.
+                  Convertit is also a team project for the Wild Code School. It's an image converter with a picture gallery where the user can log in, convert his image and store it.
                 </p>
                 <dl className="grid grid-cols-1 mt-16 gap-x-6 gap-y-10 sm:grid-cols-2 sm:gap-y-16 lg:gap-x-8">
                   {secondProjectData.map((feature) => (
