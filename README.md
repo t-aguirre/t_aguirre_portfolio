@@ -2,22 +2,7 @@
 
 This portfolio has been built with the template of the Wild Code School's teacher Lydie Pluvinage to develop projects from scratch.
 
-## Setup & Use
-
-### Project Initialization
-
-- Clone this repo
-- Run command `npm install`
-
-### Available Commands
-
-- `dev` : Starts both servers (frontend + backend) in one terminal
-- `lint` : Runs validation tools, and refuses unclean code (will be executed on every _commit_)
-- `fix` : Fixes linter errors (run it if `lint` growls on your code !)
-
-## FAQ
-
-### Tools
+It'a a React Vite project configured with:
 
 - _Husky_ : Allows to execute specific commands that trigger on _git_ events
 - _Vite_ : Alternative to _Create-React-App_, packaging less tools for a more fluid experience
